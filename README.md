@@ -1,5 +1,3 @@
-# Smart-Parking-Lot-Management
-
 # 🚗 Smart Parking Lot Management
 
 ## 📌 Overview
